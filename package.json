@@ -1,0 +1,22 @@
+{
+  "name": "demo3",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "mitt": "^2.1.0",
+    "vue": "^3.2.37",
+    "vue-bus": "^1.2.1",
+    "vue3-eventbus": "^2.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.1.0",
+    "d3": "^7.6.1",
+    "vite": "^3.1.0"
+  }
+}
